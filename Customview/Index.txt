@@ -1,0 +1,1 @@
+this is customview for fruit in android app
